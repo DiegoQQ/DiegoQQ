@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" />
 
-Soy un desarrollador Front-End con habilidades en HTML, CSS, JavaScript, Git, PHP básico y manejo básico de MySQL. Trabajo bien en equipo, aprendo rápido y soy una persona amable, paciente y comunicativa. ¡Juntos podemos crear soluciones increíbles!
+Soy un desarrollador Front-End con habilidades en HTML, CSS, JavaScript, Git, PHP y manejo de MySQL. Trabajo bien en equipo, aprendo rápido y soy una persona amable, paciente y comunicativa. ¡Juntos podemos crear soluciones increíbles!
 
 ### Formación Académica:
 
@@ -15,8 +15,8 @@ Soy un desarrollador Front-End con habilidades en HTML, CSS, JavaScript, Git, PH
 ### Habilidades:
 
 * HTML, CSS, JavaScript
-* PHP básico
-* Manejo de bases de datos MySQL básico
+* PHP
+* Manejo de bases de datos MySQL
 * Conocimiento de Git
 * Buena capacidad de trabajar en equipo y habilidades de comunicación
 
