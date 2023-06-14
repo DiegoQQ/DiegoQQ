@@ -9,7 +9,7 @@ Soy un desarrollador Front-End con habilidades en HTML, CSS, JavaScript, Git, PH
 + Institución Educativa Antonio Derka.
     * Bachiller técnico en programación de software (2019).
 + Centro de Servicios y Gestión Empresarial - SENA Regional Antioquia.
-    * Tecnólogo en análisis y desarrollo de sistemas de información (Vigente).
+    * Tecnólogo en análisis y desarrollo de sistemas de información.
 
 
 ### Habilidades:
